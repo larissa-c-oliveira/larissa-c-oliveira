@@ -5,7 +5,7 @@
 <p>Estou sempre em busca de desafios que me permitam continuar aprendendo e aprimorando minhas habilidades na análise de dados.</p>
 <hr>
 
-Para conhecer melhor meu perfil, acesse:   
+Fique à vontade para entrar em contato comigo para discutir oportunidades interessantes ou para compartilhar ideias sobre análise de dados. Vamos construir um futuro orientado por dados juntos! Acesse:   
 
 <a href=”https://www.linkedin.com/in/larissa-c-oliveira/”>
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
